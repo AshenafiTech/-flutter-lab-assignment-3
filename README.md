@@ -1,6 +1,4 @@
 # flutter_lab_assignment_3
 
-A new Flutter project.
-
 # Name: Ashenafi Godana
 # ID: UGR/7906/14
